@@ -6,7 +6,7 @@ on a yearly or semi-yearly basis. Last year, around 500 institutions across the 
 The challenge in using the data is that is unwieldy - lots of missing data, incomplete responses, 
 highly correlated variables, etc. - so its difficult to find the set of maximum signal variables 
 out of the hundreds of options in the dataset. This is data-wrangling, feature-selection
-part of a script that I wrote a little script that helped get the data off the shelf 
+part of a script that I wrote that helped get the data off the shelf 
 and into some decision-maker's hands.
 
 It's WIP, but for anyone working with NSSE data in higher  education research, it provides 
